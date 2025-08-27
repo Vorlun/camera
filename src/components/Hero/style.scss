@@ -5,7 +5,7 @@
   align-items: center;
   justify-content: center;
   text-align: center;
-  padding: 200px 0;
+  padding-top: 200px;
   max-width: 1055px;
   width: 100%;
 
@@ -51,7 +51,7 @@
 
 @media (max-width: 990px) {
   .hero {
-    margin-top: 60px;
+    padding-top: 100px;
     min-height: auto;
 
     &__title {
